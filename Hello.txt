@@ -1,1 +1,2 @@
-hi this is my first train on using git
+hi this is my first trail on using git
+I am new to git and github platforms.
